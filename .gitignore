@@ -1,0 +1,13 @@
+# Executables
+*.exe
+*.out
+*.o
+*.obj
+
+# IDE & Editor folders
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
